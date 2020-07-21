@@ -22,3 +22,4 @@ Die Studenten entwickelten die folgenden Seminararbeiten, welche als benotungsre
 4. Die Entscheidung für die jeweiligen Technologien / Plattformen ist ganzheitlich und logisch korrekt.
 5. Die Dokumentation ist wertvoll, hilfreich und verständlich
 6. Die Methode zur Userauthentifizierung ist kontextspezifisch vernünftig gewählt und begründet
+7. User Bedürfnisse wurden klar verstanden (z.B. mit Hilfe von User Story Maps / Persona Beschreibungen dokumentiert) 
