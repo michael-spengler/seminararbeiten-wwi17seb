@@ -9,7 +9,7 @@ Die Studenten entwickelten die folgenden Seminararbeiten, welche als benotungsre
 |------------|----------|----------|----------|------|
 | René, Niko Lockenvitz | Fancy Flash Cards | https://github.com/fancy-flashcard/ffc |  |  |
 | please create a PR  | please create a PR | please create a PR |  |  |
-| tbd | please create a PR | please create a PR |  |  |
+| please create a PR | please create a PR | please create a PR |  |  |
 | please create a PR | please create a PR | please create a PR |  |  |
 | please create a PR | please create a PR | please create a PR |  |  |
 | please create a PR | please create a PR | please create a PR |  |  |
