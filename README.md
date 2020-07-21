@@ -5,14 +5,14 @@ Im Rahmen der Vorlesungsreihe **Plattformen und Frameworks**, sowie im Rahmen de
 Die Studenten entwickelten die folgenden Seminararbeiten, welche als benotungsrelevante Abgaben genutzt werden:
 
 
-| Teilnehmer                           | Projektname        | Link zur Seminararbeit                                  | Note | Punkte (max.?) |
-| ------------------------------------ | ------------------ | ------------------------------------------------------- | ---- | -------------- |
-| Rene-Pascal Fischer, Niko Lockenvitz | Fancy Flash Cards  | https://github.com/fancy-flashcard/ffc/tree/master/docs |      |                |
-| please create a PR                   | please create a PR | please create a PR                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                      |      |                |
+| Teilnehmer                           | Projektname        | Links (z. B. Seminararbeit)                                                                                             | Note | Punkte (max.?) |
+| ------------------------------------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---- | -------------- |
+| Rene-Pascal Fischer, Niko Lockenvitz | Fancy Flashcard    | [App](https://fancy-flashcard.github.io/ffc) · [Dokumentation](https://github.com/fancy-flashcard/ffc/tree/master/docs) |      |                |
+| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
+| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
+| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
+| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
+| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
 
   
 ## Qualitätskriterien: 
