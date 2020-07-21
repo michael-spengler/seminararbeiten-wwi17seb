@@ -5,9 +5,9 @@ Im Rahmen der Vorlesungsreihe **Plattformen und Frameworks**, sowie im Rahmen de
 Die Studenten entwickelten die folgenden Seminararbeiten, welche als benotungsrelevante Abgaben genutzt werden:
 
 
-| Teilnehmer | Projektname | Link | Note | Punkte (max.?)
+| Teilnehmer | Projektname | Link zur Seminararbeit | Note | Punkte (max.?)
 |------------|----------|----------|----------|------|
-| René, Niko Lockenvitz | Fancy Flash Cards | https://github.com/fancy-flashcard/ffc |  |  |
+| René, Niko Lockenvitz | Fancy Flash Cards | https://github.com/fancy-flashcard/ffc/tree/master/docs |  |  |
 | please create a PR  | please create a PR | please create a PR |  |  |
 | please create a PR | please create a PR | please create a PR |  |  |
 | please create a PR | please create a PR | please create a PR |  |  |
