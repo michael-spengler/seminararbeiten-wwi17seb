@@ -21,3 +21,4 @@ Die Studenten entwickelten die folgenden Seminararbeiten, welche als benotungsre
 3. Es sind automatisierte Tests vorhanden - statische (e.g. lint) und oder dynamische (e.g. unit tests)
 4. Die Entscheidung für die jeweiligen Technologien / Plattformen ist ganzheitlich und logisch korrekt.
 5. Die Dokumentation ist wertvoll, hilfreich und verständlich
+6. Die Methode zur Userauthentifizierung ist kontextspezifisch vernünftig gewählt und begründet
