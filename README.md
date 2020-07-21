@@ -23,4 +23,4 @@ Die Studenten entwickelten die folgenden Seminararbeiten, welche als benotungsre
 5. Die Dokumentation ist wertvoll, hilfreich und verständlich
 6. Die Methode zur Userauthentifizierung ist kontextspezifisch vernünftig gewählt und begründet
 7. User Bedürfnisse wurden klar verstanden (z.B. mit Hilfe von User Story Maps / Persona Beschreibungen dokumentiert) 
-8. Optional: Moneatarisierungsoptionen wurden evaluiert
+8. Optional: Monetarisierungsoptionen wurden evaluiert
