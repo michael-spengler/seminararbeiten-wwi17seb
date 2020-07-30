@@ -5,14 +5,14 @@ Im Rahmen der Vorlesungsreihe **Plattformen und Frameworks**, sowie im Rahmen de
 Die Studenten entwickelten die folgenden Seminararbeiten, welche als benotungsrelevante Abgaben genutzt werden:
 
 
-| Teilnehmer                           | Projektname        | Links (App & Seminararbeit)                                                                                             | Note | Punkte (max.?) |
-| ------------------------------------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---- | -------------- |
-| Rene-Pascal Fischer, Niko Lockenvitz | Fancy Flashcard    | [App](https://fancy-flashcard.github.io/ffc) · [Dokumentation](https://github.com/fancy-flashcard/ffc/tree/master/docs) |      |                |
-| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
-| please create a PR                   | please create a PR | please create a PR                                                                                                      |      |                |
+| Teilnehmer                                                                                          | Projektname                                                  | Links (App & Seminararbeit)                                                                                             | Note | Punkte (max.?) |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---- | -------------- |
+| Rene-Pascal Fischer, Niko Lockenvitz                                                                | Fancy Flashcard                                              | [App](https://fancy-flashcard.github.io/ffc) · [Dokumentation](https://github.com/fancy-flashcard/ffc/tree/master/docs) |      |                |
+| Dennis Köhler, Martin Sandig, Erik Jansky, Kai Crecelius, Marco Neumair, Falk Bachmann, Julian Rolle| Knowledge Rush                                               | [Github](https://github.com/dennis-koehler/idleGame)                                                                    |      |                |
+| please create a PR                                                                                  | please create a PR                                           | please create a PR                                                                                                      |      |                |
+| please create a PR                                                                                  | please create a PR                                           | please create a PR                                                                                                      |      |                |
+| please create a PR                                                                                  | please create a PR                                           | please create a PR                                                                                                      |      |                |
+| please create a PR                                                                                  | please create a PR                                           | please create a PR                                                                                                      |      |                |
 
   
 ## Qualitätskriterien: 
